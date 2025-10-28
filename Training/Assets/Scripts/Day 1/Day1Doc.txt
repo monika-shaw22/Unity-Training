@@ -1,0 +1,8 @@
+Day 1 - Fundamentals & Editor Basics
+ 1: Install Unity & Unity Hub; explore the interface and set up your first project.unity+1
+ 2: Learn Scene navigation (moving/rotating/zooming in 3D/2D).learn.unity
+ 3: Create and manipulate GameObjects (cubes, spheres); practice with transforms (position, scale, rotation).learn.unity
+ 4: Basic physics—add Rigidbody and Colliders; build a virtual Rube Goldberg Machine (basic physics simulation).masterycoding
+ 5: Introduction to C# scripting; write simple scripts for movement and object interaction.youtubelearn.unity
+ 6: Learn about components (scripts, audio, particle effects); build a simple object interaction scene.learn.unity
+ 7: Small Project: Roll-A-Ball—create a controllable rolling sphere to collect targets (Unity's classic beginner project).techneeds
