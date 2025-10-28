@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Unity-Training\\Training\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06643ECF-9AF3-C570-933B-29911587D09B}|Assembly-CSharp.csproj|d:\\unity-training\\training\\assets\\scripts\\day 1\\audiotrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06643ECF-9AF3-C570-933B-29911587D09B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\day 1\\audiotrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06643ECF-9AF3-C570-933B-29911587D09B}|Assembly-CSharp.csproj|d:\\unity-training\\training\\assets\\scripts\\day 1\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06643ECF-9AF3-C570-933B-29911587D09B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\day 1\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06643ECF-9AF3-C570-933B-29911587D09B}|Assembly-CSharp.csproj|d:\\unity-training\\training\\assets\\scripts\\day 1\\objectinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06643ECF-9AF3-C570-933B-29911587D09B}|Assembly-CSharp.csproj|D:\\Unity-Training\\Training\\assets\\scripts\\day 1\\objectinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06643ECF-9AF3-C570-933B-29911587D09B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\day 1\\objectinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AudioTrigger.cs",
+              "DocumentMoniker": "D:\\Unity-Training\\Training\\Assets\\Scripts\\Day 1\\AudioTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Day 1\\AudioTrigger.cs",
+              "ToolTip": "D:\\Unity-Training\\Training\\Assets\\Scripts\\Day 1\\AudioTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Day 1\\AudioTrigger.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:50:38.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rotator.cs",
               "DocumentMoniker": "D:\\Unity-Training\\Training\\Assets\\Scripts\\Day 1\\Rotator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Day 1\\Rotator.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ObjectInteraction.cs",
               "DocumentMoniker": "D:\\Unity-Training\\Training\\Assets\\Scripts\\Day 1\\ObjectInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Day 1\\ObjectInteraction.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Day 1\\ObjectInteraction.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:32:40.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T07:32:40.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SimpleMovement.cs",
               "DocumentMoniker": "D:\\Unity-Training\\Training\\Assets\\Scripts\\Day 1\\SimpleMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Day 1\\SimpleMovement.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RigidBodyExample.cs",
               "DocumentMoniker": "D:\\Unity-Training\\Training\\Assets\\Scripts\\Day 1\\RigidBodyExample.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Day 1\\RigidBodyExample.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TransFormExample.cs",
               "DocumentMoniker": "D:\\Unity-Training\\Training\\Assets\\Scripts\\Day 1\\TransFormExample.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Day 1\\TransFormExample.cs",
