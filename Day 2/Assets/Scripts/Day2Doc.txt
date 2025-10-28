@@ -1,0 +1,8 @@
+Day 2: Scripting & 2D Basics
+ 8: Explore the Unity Scripting API; script object behavior (e.g., changing colors, moving objects).masterycoding+1
+ 9: UI basics—add and script buttons, sliders, and text labels.learn.unity
+ 10: 2D Scene setup; draw sprites, backgrounds, and basic UI elements.learn.unity
+ 11: Simple 2D Movement—make a square move using keyboard input.youtube
+ 12: Build a 2D Puzzle Game; create collision logic with collecting or avoiding objects.masterycoding
+ 13: Sound & Music—add background audio and simple sound effects.learn.unity
+ 14: Small Project: 2D Platformer (character movement, jumping, basic enemies).techneeds
