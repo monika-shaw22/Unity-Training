@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\DamageEffect.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scripts\Day3Doc.txt" />
