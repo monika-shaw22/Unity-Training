@@ -13,7 +13,7 @@ public class PlayerShooting : MonoBehaviour
             Vector2 direction = (mousePos - transform.position).normalized;
 
             GameObject bullet = Instantiate(bulletPrefab, transform.position, Quaternion.identity);
-            bullet.GetComponent<Rigidbody2D>().velocity = direction * bulletSpeed;
+            bullet.GetComponent<Rigidbody2D>().linearVelocity = direction * bulletSpeed;
         }
     }
 }
